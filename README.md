@@ -17,3 +17,18 @@ python main.py --arch xxx --dataset xxx --epoch xxx --batch_size xxx
 https://github.com/Andy-zhujunwen/UNET-ZOO
 
 https://github.com/iduta/pyconv
+
+# Citations
+
+```bibtex
+@article{li2021pyconvu,
+  title={PyConvU-Net: a lightweight and multiscale network for biomedical image segmentation},
+  author={Li, Changyong and Fan, Yongxian and Cai, Xiaodong},
+  journal={BMC bioinformatics},
+  volume={22},
+  number={1},
+  pages={1--11},
+  year={2021},
+  publisher={Springer}
+}
+```
